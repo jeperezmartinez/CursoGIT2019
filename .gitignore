@@ -1,0 +1,3 @@
+# ignore all .log files in the repository 
+*.log
+
